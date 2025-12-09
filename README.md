@@ -2,11 +2,15 @@
 
 ## Sobre mim
 
-- 🤔 Tenho bastante interesse na área de robótica e desenvolvimento web.
-- 🎓 Estudando Ciência da computação na Cesar School.
-- 💼 Busco emprego e estágios na área de desenvolvimento de software.
-- 🌱 Aprendendo mais sobre C e JavaScript.
+👋 Olá! me chamo Luiz
 
+🤖 Tenho bastante interesse nas áreas de robótica e desenvolvimento web.
+
+🎓 Atualmente estudo Ciência da Computação na Cesar School.
+
+💼 Busco oportunidades de estágio ou emprego em desenvolvimento de software.
+
+🌱 No momento, estou aprendendo mais sobre C e JavaScript.
 ## Minhas Skills
 
 **Aplicações e dados**
